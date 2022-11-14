@@ -13,7 +13,7 @@ If it only shows on the New Tab page like in the image below on the right
 If you have one like the left side,
 Then you will have to follow these steps, If You Have One Like The Right, Scroll Down Till You See "- People With Bookmarks Bar On Read Here"
 1. Right Click/RMB/Right Mouse Button, The Bookmarks Bar.
-!
+
 [image](https://user-images.githubusercontent.com/108237499/199825499-16bcd92b-6640-4e39-acad-cbc12a4bcafe.png)
 
 Then Click (Show Bookmarks Bar)
