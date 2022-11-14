@@ -2,6 +2,7 @@
 
 This is a version of the inspect element
 that works on all devices, mobile and computer.
+I DO NOT OWN THIS I JUST SIMPLIFY THE SETUP
 
 # Desktop Or Laptop Setup
 
