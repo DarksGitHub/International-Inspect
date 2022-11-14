@@ -29,8 +29,8 @@ Rename The Bookmark "Universal Inspect" Without The Quotes.
 
 For The URL Of The Bookmark You Want To Replace It With The Javascript Code Below
 
-```
-javascript:(function () {     var script =  document.createElement('script');    script.src="//raw.githubusercontent.com/DarksGitHub/International-Inspect/main/InternationalInspect.js";     document.body.appendChild(script);    script.onload = function () {         eruda.init()     } })();
+```javascript
+javascript:(function () {     var script =  document.createElement('script');    script.src="//cdn.jsdelivr.net/npm/eruda";     document.body.appendChild(script);    script.onload = function () {         eruda.init()     } })();
 ```
 
 Then Press The Save Button.
