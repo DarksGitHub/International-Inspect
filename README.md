@@ -13,4 +13,5 @@ Then you will have to follow these steps.
 ![image](https://user-images.githubusercontent.com/108237499/199825499-16bcd92b-6640-4e39-acad-cbc12a4bcafe.png)
 Then Click (Show Bookmarks Bar)
 ![199825499-16bcd92b-6640-4e39-acad-cbc12a4bcafe](https://user-images.githubusercontent.com/108237499/199825831-2a0a2169-a470-4209-9f87-550dbd763004.png)
+
 Now Bookmarks Bar Shows No Matter What Tab Your on.
