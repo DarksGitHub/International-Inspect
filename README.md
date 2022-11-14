@@ -15,3 +15,17 @@ Then Click (Show Bookmarks Bar)
 ![199825499-16bcd92b-6640-4e39-acad-cbc12a4bcafe](https://user-images.githubusercontent.com/108237499/199825831-2a0a2169-a470-4209-9f87-550dbd763004.png)
 
 Now Bookmarks Bar Shows No Matter What Tab Your on.
+
+Now Click The Star On This Site To Make A Bookmark
+
+Rename The Bookmark "Universal Inspect" Without The Quotes.
+
+For The URL Of The Bookmark You Want To Replace It With The Javascript Code Below
+
+```
+javascript:(function () {     var script =  document.createElement('script');    script.src="//https://raw.githubusercontent.com/DarksGitHub/International-Inspect/main/InternationalInspect.js";     document.body.appendChild(script);    script.onload = function () {         eruda.init()     } })();
+```
+
+Then Press The Save Button.
+
+When You Want To Use It On A Site, Click The Bookmark, Click The Gear That Appears In The Bottom Right Corner. The Setup Is Finished. Mobile Guide Coming Soon
