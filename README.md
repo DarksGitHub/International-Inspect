@@ -3,7 +3,7 @@
 This is a version of the inspect element
 that works on all devices, mobile and computer.
 
-# Setup
+# Desktop Or Laptop Setup
 
 Create a new bookmark and set it to the bookmarks bar
 If it only shows on the New Tab page like in the image below on the right
@@ -35,3 +35,5 @@ javascript:(function () {     var script =  document.createElement('script');   
 Then Press The Save Button.
 
 When You Want To Use It On A Site, Click The Bookmark, Click The Gear That Appears In The Bottom Right Corner. The Setup Is Finished. Mobile Guide Coming Soon
+
+# Mobile Setup (Google Chrome App)
